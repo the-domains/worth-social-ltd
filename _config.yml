@@ -1,0 +1,28 @@
+name: 'Worth Social, Ltd'
+favicon: null
+layout_spectrum: 0.18845656793564558
+typography_spectrum: 0.7103321007452905
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8605322607327253
+  lightness: 0.46922196517698467
+  saturation: 0.07340831193141639
+  rhythmicContrast: 0.2735727117396891
+purpose: []
